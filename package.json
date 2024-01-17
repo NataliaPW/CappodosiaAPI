@@ -1,0 +1,19 @@
+{
+  "name": "cappodosia",
+  "version": "1.0.0",
+  "description": "Портфолио AneliaWEB. Web-сайт, предназначенный для рекламирования туристического маршрута в целях представления туристических услуг",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+   "type": "module",
+  "author": "AneliaWeb <aneliaweb@internet.ru>",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.0.3"
+  },
+    "engines": {
+       "node": ">=16.0.0"
+    }
+}
